@@ -2,4 +2,4 @@
 
 Most simple web crawler in Node.js
 
-Enter a URL and a query selectors (as strings) and fetch the element text (innerHtml)
+Go to index.js, enter a URL and a query selectors (as strings) and fetch the element text (innerHtml)
